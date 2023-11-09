@@ -1,0 +1,24 @@
+action = kaha data bhejna hai
+method = kese data bhejna
+
+$_* = Super Global Variable
+$_SERVER
+$_GET
+$_POST
+
+ $_SERVER['PHP_SELF'] = current filename with address
+
+current address with filename
+index.php = filename
+ http://localhost/getandpost/index.php
+
+ We never store the plain password
+
+ Plain Password --> Hash(Encrypt) ---> Store DB-> Table
+
+ Hashing Algorithm
+ 1. MD5      32     Message Digest 5
+ 2. SHA1     40     Secure Hash Algorithm
+ 3. SHA512   128
+
+ Oneway hashing Algorithm
